@@ -1,7 +1,7 @@
 {
   "name": "react-redux-hot",
   "version": "0.0.1",
-  "description":"CMS5 WEB components",
+  "description":"zhangdousang",
   "main":"src/js/index.js",
   "scripts":{
     "test":"mocha test/.setup.js test/**/*.test.js",
